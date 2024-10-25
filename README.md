@@ -16,4 +16,11 @@ Display favorites, with options to remove items.
 
 Web-based interface using Streamlit for easy interaction.
 
-# 
+# required libraries:
+tensorflow
+keras
+numpy
+scikit-learn
+matplotlib 
+streamlit 
+pillow
