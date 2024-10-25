@@ -51,3 +51,25 @@ pillow
   Favorites Page: View and manage your favorite items.
   
   About Page: Learn about the purpose and inspiration behind this project.
+
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/5af50d95-a4a9-4960-8eba-2565ed31df4b)
+
+![image](https://github.com/user-attachments/assets/e966d5b6-fc7f-4e63-a431-d0f4ec5ca958)
+
+![image](https://github.com/user-attachments/assets/a71e4c98-4ec5-4b29-a18c-41af7d312862)
+
+![image](https://github.com/user-attachments/assets/19e55e5e-6b2f-4958-8545-30c731fb3a3c)
+
+# Dataset
+
+dataset 1:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
+dataset 2:https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
+
+# Acknowledgments
+
+This project uses ResNet50 for feature extraction, with weights trained on the ImageNet dataset.
+
+Built with Streamlit for interactive web-based applications.
