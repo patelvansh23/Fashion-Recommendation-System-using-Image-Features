@@ -9,14 +9,12 @@ The Fashion Recommendation System using Image Features leverages image feature e
 # Features
 
 Upload an image to get visually similar recommendations.
-
 Add recommended items to a personal "Favorites" list.
-
 Display favorites, with options to remove items.
-
 Web-based interface using Streamlit for easy interaction.
 
 # required libraries:
+
 tensorflow
 keras
 numpy
@@ -25,4 +23,14 @@ matplotlib
 streamlit 
 pillow
 
-# 
+# Usage
+
+1.Feature Extraction:
+  python feature_extraction.py
+2.Start the Application:
+  streamlit run main.py
+3.Exploring Pages:
+  Home Page: Introduction and navigation to other pages.
+  Recommendation Page: Upload an image to get recommendations and add items to favorites.
+  Favorites Page: View and manage your favorite items.
+  About Page: Learn about the purpose and inspiration behind this project.
