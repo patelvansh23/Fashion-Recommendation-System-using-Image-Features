@@ -1,8 +1,19 @@
 # Fashion-Recommendation-System-using-Image-Features
-This project is a "Fashion Recommendation System" that suggests similar items based on an uploaded image. 
-Built with  "TensorFlow: and "Streamlit", it leverages "ResNet50" for feature extraction and "Nearest Neighbors" for similarity search. 
-The web application includes options to add favorite items and view them in a favorites section.
+
+Introduction to the Fashion Recommendation System This project can be thought of as a content-based image recommendation, only this time the recommended images refer to similar fashion items that match user-uploaded item. Implemented using TensorFlow, ResNet50 and Streamlit where a deep learning model writes the features of an image to be compared with images in that datase
 
 # Project Overview
-The Fashion Recommendation System helps users find visually similar items in a fashion catalog by uploading an image of an item. 
-The backend feature extraction model, based on "ResNet50", transforms images into feature vectors, which are then compared using "Nearest Neighbors" for similar image retrieval.
+
+The Fashion Recommendation System using Image Features leverages image feature extraction to identify visually similar items based on a user-uploaded image. This project uses a pre-trained ResNet50 model to extract features, which are then stored and compared to provide recommendations.
+
+# Features
+
+Upload an image to get visually similar recommendations.
+
+Add recommended items to a personal "Favorites" list.
+
+Display favorites, with options to remove items.
+
+Web-based interface using Streamlit for easy interaction.
+
+# 
